@@ -183,7 +183,7 @@ home_banner:
     style: default # default, reverse, center
     # Social links
     links:
-      github: https://github.com/SoknyArtemis/
+      github: https://github.com/Hexo-Pages/
       email: SoknyArtemis@outlook.com
     # Social links with QRcode drawers
     qrs:
@@ -378,7 +378,7 @@ comment:
       region: # Twikoo region. can be empty
     # Giscus comment system. See https://giscus.app/
     giscus:
-      repo: SoknyArtemis/soknyartemis # Github repository name e.g. EvanNotFound/hexo-theme-redefine
+      repo: SoknyArtemis/Hexo-Pages # Github repository name e.g. EvanNotFound/hexo-theme-redefine
       repo_id: R_kgDOPW7G-A # Github repository id
       category: General # Github discussion category
       category_id: DIC_kwDOPW7G-M4Ct0_N # Github discussion category id

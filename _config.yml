@@ -62,7 +62,7 @@ ignore: null
 theme: redefine
 deploy:
   type: git
-  repo: git@github.com:SoknyArtemis/soknyartemis.git
+  repo: git@github.com:SoknyArtemis/Hexo-Pages.git
   branch: main
 
 
