@@ -1,0 +1,16 @@
+ 1. 引入字体 
+@import url('httpsfonts.lug.ustc.edu.cncss2family=Noto+Sans+SCwght@400;700&family=Noto+Sans+TCwght@400;700&display=swap');
+
+ 2. 应用到全局 
+root {
+  --base-font-family Noto Sans TC, Noto Sans SC, sans-serif;
+}
+
+body {
+  font-family var(--base-font-family) !important;
+}
+
+ 确保标题也生效 
+h1, h2, h3, h4, h5, h6 {
+  font-family var(--base-font-family) !important;
+}

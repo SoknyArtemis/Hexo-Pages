@@ -178,7 +178,6 @@ FTP 需要一整个文件夹，所以新建一个文件夹：
 然后在终端输入以下命令
 
 ```
-
 # 开放被动模式端口
 netsh advfirewall firewall add rule name="FTP 端口範圍" ir=in action=allow protocol=TCP localport=5000-5100 
 
