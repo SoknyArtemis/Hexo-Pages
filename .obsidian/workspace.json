@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86a785b652a4f78c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/记一次在-Windows-IIS-中配置-FTP-站点并为-Windows-防火墙添加例外规则.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "记一次在-Windows-IIS-中配置-FTP-站点并为-Windows-防火墙添加例外规则"
-            }
-          },
-          {
             "id": "7576125f2a093ae5",
             "type": "leaf",
             "state": {
@@ -30,8 +16,35 @@
               "icon": "lucide-file",
               "title": "新标签页"
             }
+          },
+          {
+            "id": "0ae47f092f4f4451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/45².md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "45²"
+            }
+          },
+          {
+            "id": "adf97fb2a7f92054",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,8 +204,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "86a785b652a4f78c",
+  "active": "adf97fb2a7f92054",
   "lastOpenFiles": [
+    "scaffolds/post.md",
     "source/_posts/记一次在-Windows-IIS-中配置-FTP-站点并为-Windows-防火墙添加例外规则.md",
     "db.json",
     "public/about/links/index.html",
