@@ -417,10 +417,10 @@ footer:
 # Docs: https://redefine-docs.ohevan.com/inject
 inject:
   # Whether to enable inject
-  enable: false
+  enable: true
   # Inject custom head html code
   head: 
-    -
+    - '<style>@font-face { font-family: "Source Han Sans VF"; src: url("https://lib.sokny.eu.org/fonts/SourceHanSans-VF.otf.woff2") format("woff2"); font-display: swap; }</style>'
     -
   # Inject custom footer html code
   footer:
