@@ -5,7 +5,8 @@ categories: 操作系統
 tags:
   - 安全
   - Linux
-  - OpenSUSE
+  - SELinux
+  = OpenSUSE
   - Flatpak
 abbrlink: b62e
 ---

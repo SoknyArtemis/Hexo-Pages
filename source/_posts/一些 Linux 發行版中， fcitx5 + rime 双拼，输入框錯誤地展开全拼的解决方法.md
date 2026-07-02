@@ -1,5 +1,5 @@
 ---
-title: 一些 Linux 發行版中， fcitx5 + rime 漢字輸入會錯誤地顯示拼音的解决方法
+title: 一些 Linux 發行版中， fcitx5 + rime 双拼，输入框錯誤地展开全拼的解决方法
 author: 星華輝月
 categories: 操作系統
 tags:
@@ -7,10 +7,10 @@ tags:
   - OpenSUSE
   - Rime
   - 輸入法
-abbrlink: 258b
+abbrlink: 58cd
 ---
 
-筆者在使用 OpenSUSE，fcitx5 + rime 時遇到了一個汉字模式下，输入框会顯示拼音的問題。
+筆者在使用 OpenSUSE，fcitx5 + rime 双拼输入汉字模式的时候，输入框不润如何都会展开全拼。
 
 经过搜索找到了一篇 Issue：  [ 最新版本的错音错字提示强制显示拼音，可能影响输入体验](https://github.com/iDvel/rime-ice/issues/431)
 按照評論區的說法，是 `librime` 包太舊了或者不匹配，導致 lua 腳本跑不了，正常能夠使用 lua 腳本的話，是不顯示拼音的。
