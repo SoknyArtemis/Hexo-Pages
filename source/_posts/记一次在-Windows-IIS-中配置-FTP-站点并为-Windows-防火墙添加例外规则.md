@@ -1,9 +1,9 @@
 ---
 title: 记一次在 Windows IIS 中配置 FTP 站点并为 Windows 防火墙添加例外规则
 abbrlink: 714d
-categories: Windows
+categories: 操作系統
 tags:
-  - 系統折騰
+  - Windows
   - FTP
   - 網絡
 date: 2026-01-23 22:50:58
