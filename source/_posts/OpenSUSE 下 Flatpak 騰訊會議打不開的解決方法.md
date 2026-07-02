@@ -1,14 +1,14 @@
 ---
-title: OpenSUSE 下 Flatpak 的騰訊會議打不開的解決方法
+title: OpenSUSE 下 Flatpak 騰訊會議打不開的解決方法
 author: 星華輝月
 categories: 操作系統
 tags:
   - 安全
   - Linux
   - SELinux
-  = OpenSUSE
+  - OpenSUSE
   - Flatpak
-abbrlink: b62e
+abbrlink: '7684'
 ---
 
 開會這一塊，騰訊會議是必備的，雖然騰訊會議也有官方的 linux 版本，但是哪個是 .deb 包，筆者的 suse 不支持 .deb，我也不是很想用 alien 轉換，所以就安裝了打包成 flatpak 的版本
