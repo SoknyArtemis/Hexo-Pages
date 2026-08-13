@@ -9,6 +9,7 @@ tags:
   - openSUSE
   - Flatpak
 abbrlink: '7684'
+date: 2026-07-02 13:00:00
 ---
 
 開會這一塊，騰訊會議是必備的，雖然騰訊會議也有官方的 linux 版本，但是哪個是 .deb 包，筆者的 suse 不支持 .deb，我也不是很想用 alien 轉換，所以就安裝了打包成 flatpak 的版本

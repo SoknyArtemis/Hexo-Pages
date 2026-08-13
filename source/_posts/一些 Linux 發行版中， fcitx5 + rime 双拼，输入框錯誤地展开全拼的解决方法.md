@@ -8,6 +8,7 @@ tags:
   - Rime
   - 輸入法
 abbrlink: 58cd
+date: 2026-07-02 12:00:00
 ---
 
 筆者在使用 OpenSUSE，fcitx5 + rime 双拼输入汉字模式的时候，输入框不润如何都会展开全拼。
