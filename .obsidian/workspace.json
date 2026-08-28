@@ -11,10 +11,14 @@
             "id": "c6d4b1e09652984e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/测试笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "测试笔记"
             }
           }
         ]
@@ -181,27 +185,32 @@
   },
   "active": "c6d4b1e09652984e",
   "lastOpenFiles": [
-    "source/_posts/一些 Linux 發行版中， fcitx5 + rime 双拼，输入框錯誤地展开全拼的解决方法.md",
     "db.json",
     "public/fonts/SourceHanSans-VF.otf.woff2",
     "public/js/libs/mermaid.min.js.map",
     "public/webfonts/fa-duotone-900.ttf",
     "public/webfonts/fa-thin-100.ttf",
-    "public/js/libs/waline.mjs.map",
     "public/webfonts/fa-light-300.ttf",
+    "public/js/libs/waline.mjs.map",
     "public/webfonts/fa-regular-400.ttf",
     "public/webfonts/fa-solid-900.ttf",
     "public/webfonts/fa-sharp-solid-900.ttf",
+    "public/webfonts/fa-thin-100.woff2",
     "public/images/banner.webp",
-    "public/images/avatar.webp",
-    "public/images/wallhaven-wqery6-light.webp",
     "public/images/favicon.webp",
-    "public/images/redefine-og.webp",
+    "public/images/avatar.webp",
     "public/images/wallhaven-wqery6-dark.webp",
+    "public/images/redefine-og.webp",
     "public/images/redefine-logo.webp",
-    "public/images/redefine-favicon.svg",
+    "public/images/wallhaven-wqery6-light.webp",
+    "public/images/loading.svg",
     "public/images/redefine-avatar.svg",
     "public/images/redefine-logo.svg",
+    "source/_posts/45².md",
+    "source/_posts/测试笔记.md",
+    "source/_posts/本間學美的古日日語語法速成教程 (初版).md",
+    "source/_posts/薄荷水.md",
+    "source/_posts/一些 Linux 發行版中， fcitx5 + rime 双拼，输入框錯誤地展开全拼的解决方法.md",
     "source/_posts/openSUSE 下 Flatpak 騰訊會議打不開的解決方法.md",
     "source/_posts/希斯克语音系及正字法发布页.md",
     "source/_posts/博客建成了.md",
@@ -209,12 +218,9 @@
     "source/_posts/燒傷.md",
     "source/_posts/记一次在-Windows-IIS-中配置-FTP-站点并为-Windows-防火墙添加例外规则.md",
     "source/_posts/openSUSE 下爲 Nvidia 獨顯直連的 TUF Gaming F15 啓用亮度調節.md",
-    "source/_posts/本間學美的古日日語語法速成教程 (初版).md",
     "source/_posts/一些 Linux 發行版中， fcitx5 + rime 漢字輸入會錯誤地顯示拼音的解决方法.md",
-    "source/_posts/45².md",
     "source/_posts/OpenSUSE 下 Flatpak 的騰訊會議打不開的解決方法.md",
     "未命名.md",
-    "source/_posts/薄荷水.md",
     "file/1769188825261_Pasted_image_20260123213605.png.md",
     "file/1769249724110_image.png.md",
     "scaffolds/post.md",
@@ -224,7 +230,6 @@
     "undefined.md",
     "tet.md",
     "6mw.if9r.md",
-    "node_modules/hexo-image-link/README.md",
-    "source/_posts/记一次在 Windows IIS 中配置 FTP 站点.md"
+    "node_modules/hexo-image-link/README.md"
   ]
 }
