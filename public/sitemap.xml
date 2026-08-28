@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sokny.eu.org/posts/0.html</loc>
+    <loc>https://sokny.eu.org/posts/714d.html</loc>
     
     <lastmod>2026-08-28</lastmod>
     
@@ -38,33 +38,6 @@
   </url>
   
   <url>
-    <loc>https://sokny.eu.org/posts/714d.html</loc>
-    
-    <lastmod>2026-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sokny.eu.org/posts/6b16.html</loc>
-    
-    <lastmod>2026-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sokny.eu.org/posts/58d4.html</loc>
-    
-    <lastmod>2026-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sokny.eu.org/posts/e7f2.html</loc>
     
     <lastmod>2026-08-28</lastmod>
@@ -83,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://sokny.eu.org/posts/7f87.html</loc>
+    <loc>https://sokny.eu.org/posts/6b16.html</loc>
     
     <lastmod>2026-08-28</lastmod>
     
@@ -101,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://sokny.eu.org/posts/2bcf.html</loc>
+    <loc>https://sokny.eu.org/posts/58d4.html</loc>
     
     <lastmod>2026-08-28</lastmod>
     
@@ -111,6 +84,24 @@
   
   <url>
     <loc>https://sokny.eu.org/posts/7684.html</loc>
+    
+    <lastmod>2026-08-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sokny.eu.org/posts/7f87.html</loc>
+    
+    <lastmod>2026-08-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sokny.eu.org/posts/2bcf.html</loc>
     
     <lastmod>2026-08-28</lastmod>
     
@@ -146,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://sokny.eu.org/docs/index.html</loc>
+    <loc>https://sokny.eu.org/categories/index.html</loc>
     
     <lastmod>2026-07-02</lastmod>
     
@@ -155,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://sokny.eu.org/categories/index.html</loc>
+    <loc>https://sokny.eu.org/docs/index.html</loc>
     
     <lastmod>2026-07-02</lastmod>
     
@@ -182,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://sokny.eu.org/about/me/index.html</loc>
+    <loc>https://sokny.eu.org/about/thanks/index.html</loc>
     
     <lastmod>2026-07-02</lastmod>
     
@@ -191,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://sokny.eu.org/about/thanks/index.html</loc>
+    <loc>https://sokny.eu.org/about/me/index.html</loc>
     
     <lastmod>2026-07-02</lastmod>
     

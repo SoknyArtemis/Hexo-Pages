@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/测试笔记.md",
+                "file": "source/_posts/仮に彼の手に委ねて.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试笔记"
+              "title": "仮に彼の手に委ねて"
             }
           }
         ]
@@ -189,23 +189,23 @@
     "public/fonts/SourceHanSans-VF.otf.woff2",
     "public/js/libs/mermaid.min.js.map",
     "public/webfonts/fa-duotone-900.ttf",
+    "public/js/libs/waline.mjs.map",
     "public/webfonts/fa-thin-100.ttf",
     "public/webfonts/fa-light-300.ttf",
-    "public/js/libs/waline.mjs.map",
     "public/webfonts/fa-regular-400.ttf",
     "public/webfonts/fa-solid-900.ttf",
     "public/webfonts/fa-sharp-solid-900.ttf",
     "public/webfonts/fa-thin-100.woff2",
     "public/images/banner.webp",
     "public/images/favicon.webp",
+    "public/images/wallhaven-wqery6-light.webp",
     "public/images/avatar.webp",
     "public/images/wallhaven-wqery6-dark.webp",
-    "public/images/redefine-og.webp",
     "public/images/redefine-logo.webp",
-    "public/images/wallhaven-wqery6-light.webp",
-    "public/images/loading.svg",
-    "public/images/redefine-avatar.svg",
+    "public/images/redefine-og.webp",
     "public/images/redefine-logo.svg",
+    "public/images/redefine-avatar.svg",
+    "public/images/redefine-favicon.svg",
     "source/_posts/45².md",
     "source/_posts/测试笔记.md",
     "source/_posts/本間學美的古日日語語法速成教程 (初版).md",
